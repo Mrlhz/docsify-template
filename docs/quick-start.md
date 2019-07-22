@@ -24,13 +24,3 @@ docsify serve docs -p 3000
 ```
 
 ?> 更多命令行工具用法，参考 [docsify-cli 文档](https://github.com/docsifyjs/docsify-cli)。
-
-!> 一段重要的内容，可以和其他 **Markdown** 语法混用。
-
-![logo](/media/Gakki.jpg ':size=160x160')
-
-?> _TODO_ 完善示例
-
-```bash
-echo hello
-```
