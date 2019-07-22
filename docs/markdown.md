@@ -148,7 +148,8 @@ E = mc^2
 
 ![血小板](/images/platelet11.jpg ':size=160x160')
 
-<img src="/images/platelet21.jpg" width="50%">
+<!-- <img src="/images/platelet21.jpg" width="50%"> -->
+<img src="images/platelet21.jpg" width="50%">
 
 ![血小板](/images/platelet01.jpg)
 
